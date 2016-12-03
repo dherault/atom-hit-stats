@@ -1,7 +1,7 @@
 {
   "name": "hit-stats",
   "main": "./lib/hit-stats",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Counts your keyboard hits when editing, saves daily stats in a CSV file.",
   "keywords": [
     "key",
